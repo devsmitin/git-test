@@ -1,1 +1,3 @@
-# git-test
+# smitmodi - @smilingsmit - Git-test 
+
+Testing first Git!!
